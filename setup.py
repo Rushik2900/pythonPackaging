@@ -7,7 +7,7 @@ PROJECT_NAME = "pythonPackaging"
 USER_NAME = "Rushik2900"
 
 setuptools.setup(
-    name = f{PROJECT_NAME}-{USER_NAME},
+    name = f"{PROJECT_NAME}-{USER_NAME}",
     version = "0.0.1",
     author = USER_NAME
     author_email = "rush2900@gmail.com",
